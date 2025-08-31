@@ -5,7 +5,7 @@ A deep learning-based project to detect respiratory diseases, specifically focus
 ---
 
 ## 🧠 Model Overview
-
+ 
 - **Model Type**: Custom CNN (Convolutional Neural Network)
 - **Task**: Binary Classification (COVID-19 vs. Normal)
 - **Architecture Highlights**:
