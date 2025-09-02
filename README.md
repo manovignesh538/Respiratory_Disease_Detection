@@ -2,7 +2,7 @@
 
 A deep learning-based project to detect respiratory diseases, specifically focusing on binary classification between **COVID-19** and **Normal** cases using chest X-ray images.
 
----
+--- 
  
 ## 🧠 Model Overview
  
